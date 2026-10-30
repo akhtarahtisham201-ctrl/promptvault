@@ -1,0 +1,10 @@
+{
+  "name": "PromptVault AI Image Prompts",
+  "short_name": "PromptVault",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070912",
+  "theme_color": "#070912",
+  "description": "Browse, copy and save AI image prompts.",
+  "icons": []
+}
